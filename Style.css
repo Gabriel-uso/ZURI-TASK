@@ -1,0 +1,124 @@
+# ZURI-TASK
+Resume 
+*{
+
+  box-sizing: border-box;
+
+  align-items: center;
+
+}
+
+div{
+
+  padding: 35px ;
+
+  text-align: center;
+
+  margin :10px,auto;
+
+}
+
+section{
+
+    font-family :'Courier New';
+
+  font-weight: bolder;
+
+}
+
+.Contents .Head{
+
+  background-color :#FFE4B5;
+
+  padding: 60px;
+
+  border: 1px solid snow;
+
+}
+
+b{
+
+   font-size: 80px;
+
+  font-family: monospace ;
+
+}
+
+.Main{
+
+  background-color :#FFEFD5;
+
+  padding :0;
+
+  text-align :left ;
+
+}
+
+.Main .Contacts{
+
+  border :4px solid snow ;
+
+}
+
+body{
+
+  line-height: 30px;
+
+}
+
+h1{
+
+  text-align:center ;
+
+  text-decoration : underline;
+
+  font-family: monospace;
+
+}
+
+.work-history {
+
+  text-align :left;
+
+    font-family :'Courier New';
+
+  font-weight: bolder;
+
+}
+
+.Education {
+
+  text-align :left ;
+
+  font-family :'Courier New';
+
+  font-weight: bolder;
+
+}
+
+.Interests{
+
+  text-align :left ;
+
+    font-family :'Courier New';
+
+  font-weight: bolder;
+
+}
+
+.Contacts{
+
+  text-align :left;
+
+    font-family :'Courier New';
+
+  font-weight: bolder;
+
+}
+
+.Contents {
+
+  font-size : 25px;
+
+}
+
